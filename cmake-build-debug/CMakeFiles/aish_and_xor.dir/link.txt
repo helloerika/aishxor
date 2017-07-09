@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.1.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\aish_and_xor.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\aish_and_xor.dir/objects.a @CMakeFiles\aish_and_xor.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE  -g   -Wl,--whole-archive CMakeFiles\aish_and_xor.dir/objects.a -Wl,--no-whole-archive  -o aish_and_xor.exe -Wl,--out-implib,libaish_and_xor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\aish_and_xor.dir\linklibs.rsp

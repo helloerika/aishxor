@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Eric/CLionProjects/aish_and_xor/Classes/Aishxor.cpp
+iostream
+-
+../Header/Aishxor.h
+C:/Users/Eric/CLionProjects/aish_and_xor/Header/Aishxor.h
+
+C:/Users/Eric/CLionProjects/aish_and_xor/Header/Aishxor.h
+
+C:/Users/Eric/CLionProjects/aish_and_xor/main.cpp
+iostream
+-
+Header/Aishxor.h
+C:/Users/Eric/CLionProjects/aish_and_xor/Header/Aishxor.h
+
